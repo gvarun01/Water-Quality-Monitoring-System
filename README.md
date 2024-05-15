@@ -2,6 +2,8 @@
 
 Welcome to AquaSense! Your ultimate solution for real-time water quality monitoring, developed as part of project for CS3.303 Introduction to IoT Spring'24.
 
+![AquaSense Dashboard](documents/dashboard.jpg)
+
 ## Overview
 
 AquaSense is an innovative IoT-based system designed to track and analyze the quality of drinking water samples in real-time. With AquaSense, you can ensure that your water is always safe and clean, thanks to its advanced monitoring capabilities.
@@ -30,6 +32,10 @@ To get started with AquaSense:
 1. **Clone the repository**: `git clone https://github.com/yourusername/AquaSense.git`
 2. **Install dependencies**: `npm install`
 3. **Configure the Blynk IoT Dashboard**: Use the provided credentials to access the dashboard interface and set up widgets for sensor data visualization.
+
+## Project Showing-Off Video
+
+
 
 ## Contact
 
