@@ -8,11 +8,11 @@ AquaSense is an innovative IoT-based system designed to track and analyze the qu
 
 ## Features
 
-🔍 **Real-time Monitoring**: Keep an eye on water quality parameters such as pH level, turbidity, TDS, and temperature in real-time.
-📊 **Blynk IoT Dashboard**: Visualize and analyze sensor data with ease using our intuitive Blynk IoT dashboard.
-🚨 **Automated Alerts**: Receive instant alerts for any significant changes in water quality parameters, ensuring prompt action.
-📈 **Historical Data Analysis**: Dive into historical sensor data to identify trends, patterns, and regulatory compliance.
-🔧 **Scalability and Reliability**: Designed to scale effortlessly to meet the needs of any water monitoring network.
+- 🔍 **Real-time Monitoring**: Keep an eye on water quality parameters such as pH level, turbidity, TDS, and temperature in real-time.
+- 📊 **Blynk IoT Dashboard**: Visualize and analyze sensor data with ease using our intuitive Blynk IoT dashboard.
+- 🚨 **Automated Alerts**: Receive instant alerts for any significant changes in water quality parameters, ensuring prompt action.
+- 📈 **Historical Data Analysis**: Dive into historical sensor data to identify trends, patterns, and regulatory compliance.
+- 🔧 **Scalability and Reliability**: Designed to scale effortlessly to meet the needs of any water monitoring network.
 
 ## Components Used
 
