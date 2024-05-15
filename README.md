@@ -1,6 +1,6 @@
 # 🌊 AquaSense: Smart Water Quality Monitoring System 🌊
 
-Welcome to AquaSense! Your ultimate solution for real-time water quality monitoring, developed as part of the Introduction to IoT course (Spring 2024) at IIITH.
+Welcome to AquaSense! Your ultimate solution for real-time water quality monitoring, developed as part of project for CS3.303 Introduction to IoT Spring'24.
 
 ## Overview
 
