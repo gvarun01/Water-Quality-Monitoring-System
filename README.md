@@ -4,6 +4,8 @@ Welcome to AquaSense! Your ultimate solution for real-time water quality monitor
 
 ![AquaSense Dashboard](documents/dashboard.jpg)
 
+![AquaSense Dashboard](documents/dashboard.jpg)
+
 ## Overview
 
 AquaSense is an innovative IoT-based system designed to track and analyze the quality of drinking water samples in real-time. With AquaSense, you can ensure that your water is always safe and clean, thanks to its advanced monitoring capabilities.
@@ -29,6 +31,10 @@ AquaSense is an innovative IoT-based system designed to track and analyze the qu
 ## Project Demonstration
 
 [Watch Project Demo](https://iiitaphyd-my.sharepoint.com/:v:/g/personal/varun_gup_students_iiit_ac_in/ESP-URgsV8NOpeov880dRXUBbM0NArsmWemxT46kDEo1uQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Uddpeu)
+
+## Project Showing-Off Video
+
+
 
 ## Contact
 
