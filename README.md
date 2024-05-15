@@ -33,6 +33,6 @@ To get started with AquaSense:
 
 ## Contact
 
-For questions or inquiries about the project, please contact [varun.gup@students.iiit.ac.in](mailto:varun.gup@students.iiit.ac.in).
+For questions or inquiries about the project, please contact [here](mailto:varun.gup@students.iiit.ac.in).
 
 Let's make a splash with AquaSense! 💧💻🌟
